@@ -1,0 +1,23 @@
+[user]
+	name = wuhui
+	email = hui.wu@new-bund.net
+[push]
+	default = tracking
+[color]
+	ui = auto
+[alias]
+	unstage = reset HEAD --
+	last = log -1 HEAD
+	co = checkout
+	st = status
+	br = branch
+	ci = commit
+[gui]
+	encoding = utf-8
+[i18n]
+	commitEncoding = utf-8
+	logOutputEncoding = utf-8
+[core]
+	autocrlf = input
+	whitespace = trailing-space,space-before-tab,indent-with-non-tab
+	quotepath = false
