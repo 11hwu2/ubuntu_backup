@@ -120,8 +120,10 @@ alias bk1='cd ../'
 alias bk2='cd ../../'
 alias bk3='cd ../../../'
 
-# for autojump
-source /usr/share/autojump/autojump.sh
+# for autojump installed from ubuntu repo, version 18
+#source /usr/share/autojump/autojump.sh
+# for autojump installed from github repo, version 21.1.2
+[[ -s ~/.autojump/etc/profile.d/autojump.sh ]] && . ~/.autojump/etc/profile.d/autojump.sh
 
 # for shellcheck
 export	PATH=/home/wh21/.cabal/bin:$PATH
