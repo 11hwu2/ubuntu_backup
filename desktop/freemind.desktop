@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=FreeMind
+Comment=FreeMind jar v1.0.1
+Exec=/usr/bin/java -jar /home/wh21/tools/freemind-bin-1.0.1/lib/freemind.jar %F
+Icon=/home/wh21/tools/freemind-bin-1.0.1/accessories/freemind.png
+Terminal=false
+Type=Application
+StartupNotify=true
