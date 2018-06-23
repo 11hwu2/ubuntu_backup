@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Understand
+Exec=/home/wh21/tools/scitools/bin/linux64/understand
+Icon=/home/wh21/tools/scitools/bin/linux64/understand_64.png
+Type=Application
+Terminal=false
+Comment=Analyze it, measure it, visualize it, maintain it - Understand it
+GenericName=Static analysis tool
+Categories=Development;IDE;

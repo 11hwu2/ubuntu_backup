@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tim
+Path=/home/wh21/tools
+Icon=tim.png
+Exec=/home/wh21/tools/TIM-x86_64.AppImage
+Terminal=false
+Type=Application
+Categories=Internet;
