@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Path=/home/wh21/tools/xmind-8-update8-linux/XMind_amd64
+Exec=/home/wh21/tools/xmind-8-update8-linux/XMind_amd64/XMind
+Name=XMind
+Comment=Create mind maps
+GenericName=Planning Tool
+Icon=/home/wh21/tools/xmind-8-update8-linux/XMind_amd64/configuration/org.eclipse.osgi/983/0/.cp/icons/xmind.128.png
+Categories=Office;
