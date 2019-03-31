@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=WizNote
+Icon=wiznote
+Path=/home/wh21/tools
+Exec=/home/wh21/tools/WizNote-2.5.9-x86_64.AppImage
+StartupNotify=false
+StartupWMClass=WizNote
+OnlyShowIn=Unity;
+X-UnityGenerated=true

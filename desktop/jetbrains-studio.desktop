@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Welcome to Android Studio
+Icon=jetbrains-studio
+Path=/home/wh21/tools/android-studio/bin
+Exec=/home/wh21/tools/android-studio/jre/bin/java -Xbootclasspath/a:/home/wh21/tools/android-studio/lib/boot.jar -classpath /home/wh21/tools/android-studio/lib/bootstrap.jar:/home/wh21/tools/android-studio/lib/extensions.jar:/home/wh21/tools/android-studio/lib/util.jar:/home/wh21/tools/android-studio/lib/jdom.jar:/home/wh21/tools/android-studio/lib/log4j.jar:/home/wh21/tools/android-studio/lib/trove4j.jar:/home/wh21/tools/android-studio/lib/jna.jar:/home/wh21/tools/android-studio/jre/lib/tools.jar -Xms256m -Xmx1280m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -Djna.nosys=true -Djna.boot.library.path= -da -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/wh21/java_error_in_STUDIO_%p.log -XX:HeapDumpPath=/home/wh21/java_error_in_STUDIO.hprof -Didea.paths.selector=AndroidStudio3.1 -Djb.vmOptionsFile=/home/wh21/tools/android-studio/bin/studio64.vmoptions -Didea.platform.prefix=AndroidStudio -Didea.jre.check=true com.intellij.idea.Main
+StartupNotify=false
+StartupWMClass=jetbrains-studio
+OnlyShowIn=Unity;
+X-UnityGenerated=true

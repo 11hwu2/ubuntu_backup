@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=MiniTools (by FriendlyARM,http://arm9.net)
+Icon=minitools_x64.png
+Path=/home/wh21/tools/MiniTools-20150528
+Exec=/home/wh21/tools/MiniTools-20150528/MiniTools_x64
+StartupNotify=false
+StartupWMClass=MiniTools_x64
+OnlyShowIn=Unity;
+X-UnityGenerated=true
