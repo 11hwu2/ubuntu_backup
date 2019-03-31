@@ -142,3 +142,14 @@ export KERNEL_PATH=/home/wh21/EasyARM-i.MX280A_v1.01/linux-2.6.35.3
 
 # for Qt 5.7.0
 export Qt5_DIR=/home/wh21/Qt5.7.0/5.7/gcc_64
+
+
+# for tiny4412
+export PATH=$PATH:/home/wh21/tools/FriendlyARM/toolschain/4.5.1/bin
+
+#for slickedit pro 2016
+export PATH=$PATH:/home/wh21/tools/slickedit-pro2016/bin
+
+# for understand 4.0.926
+export PATH=$PATH:/home/wh21/tools/scitools/bin/linux64
+export STIHOME=/home/wh21/tools/scitools
