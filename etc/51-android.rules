@@ -42,3 +42,9 @@ SUBSYSTEM=="usb", ATTR{idVendor}=="0e8d", ATTR{idProduct}=="201c", MODE="*", GRO
 SUBSYSTEM=="usb", ATTR{idVendor}=="0e8d", ATTR{idProduct}=="2006", MODE="*", GROUP="plugdev"
 # moto x style lineageos 14.1
 SUBSYSTEM=="usb", ATTR{idVendor}=="18d1", ATTR{idProduct}=="4ee7", MODE="0600", GROUP="<wh21>"
+
+# huawei 
+SUBSYSTEM=="usb", ATTR{idVendor}=="12d1", ATTR{idProduct}=="108a", MODE="0600", GROUP="plugdev"
+
+# tiny4412
+SUBSYSTEM=="usb", ATTR{idVendor}=="18d1", ATTR{idProduct}=="0002", MODE="*", GROUP="plugdev"
