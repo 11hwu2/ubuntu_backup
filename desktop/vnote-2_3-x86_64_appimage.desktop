@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=VNote-2.3-x86_64.AppImage
+Icon=/home/wh21/tools/vnote.png
+Path=/home/wh21/tools
+Exec=/home/wh21/tools/VNote-2.3-x86_64.AppImage
+StartupNotify=false
